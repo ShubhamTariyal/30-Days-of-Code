@@ -1,2 +1,3 @@
 # 30-Days-of-Code
-Solution of Hackerrank 30 Days of Code challenge in C++
+Solution of Hackerrank 30 Days of Code challenge in C++.
+More programs to be added so its currently under progress...
